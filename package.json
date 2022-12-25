@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "cycyBell",
+	"descripton": "Understanding of the nodeJs environment",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
